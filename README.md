@@ -1,3 +1,9 @@
-# Getting Started with Caclculator App
+# Calculator App
 
-Make sure to first cd into the folder and run "yarn add mathjs" before starting application
+Welcome to the basic calculator application designed and created by Archit.
+
+## Getting started 
+- Make sure you have JS, yarn, and MySQL installed and running.
+- First cd into application folder
+- Run "yarn add mathjs" to install math.js import
+- Next simpily run "yarn start' to run application
