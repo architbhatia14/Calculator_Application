@@ -11,3 +11,6 @@ Welcome to the basic calculator application designed and created by Archit.
 ## Files
 - App.js: This file contains all the buttons and methos to function the application
 - App.css: This file contains the design of the application
+- App.test
+- index.css
+- index.js
