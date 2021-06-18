@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with Caclculator App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Make sure to first cd into the folder and run "yarn add mathjs"
+Run command "yarn start"
 
 ## Available Scripts
 
